@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Faith Mamphekgo | Life Skills & Communication Coach</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: linear-gradient(135deg, #007C91, #4B2E83);
+      color: #fff;
+    }
+    .container {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+    }
+    h1, h2 {
+      margin: 0 0 10px 0;
+    }
+    h1 {
+      font-size: 2.2em;
+      color: #FFD700;
+    }
+    h2 {
+      font-size: 1.2em;
+      color: #fff;
+    }
+    .section {
+      margin-top: 20px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255,255,255,0.3);
+    }
+    .services table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    .services th, .services td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.3);
+    }
+    .services th {
+      color: #FFD700;
+    }
+    .contact a {
+      color: #FFD700;
+      text-decoration: none;
+    }
+    .quote {
+      font-style: italic;
+      text-align: center;
+      margin-top: 30px;
+      font-size: 1.2em;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Faith Mamphekgo</h1>
+    <h2>Life Skills & Communication Coach | Executive Vice President, JCI Tshwane</h2>
+
+    <div class="section contact">
+      <h3>Contact</h3>
+      <p>
+        📞 <a href="tel:+27651725095">065 172 5095</a><br>
+        ✉ <a href="mailto:faith@jcitshwane.co.za">faith@jcitshwane.co.za</a><br>
+        💬 <a href="https://wa.me/27651725095">WhatsApp</a>
+      </p>
+    </div>
+
+    <div class="section profile">
+      <h3>Professional Profile</h3>
+      <p>I am a Life Skills and Communication Coach dedicated to empowering personal growth, strengthening communication, and helping individuals gain clarity and confidence. As Executive Vice President of JCI Tshwane, I actively lead youth development and community-focused initiatives that build capable and ethical leaders.</p>
+    </div>
+
+    <div class="section services">
+      <h3>Services & Pricing</h3>
+      <table>
+        <tr><th>Service</th><th>Fee per Session</th></tr>
+        <tr><td>Personal Growth & Motivation Sessions</td><td>R500</td></tr>
+        <tr><td>Communication Skills Coaching</td><td>R400</td></tr>
+        <tr><td>Vision Board Workshops & Goal Setting</td><td>R350</td></tr>
+        <tr><td>Stress Management & Wellbeing Guidance</td><td>R450</td></tr>
+      </table>
+    </div>
+
+    <div class="section achievements">
+      <h3>Experience & Achievements</h3>
+      <ul>
+        <li>Executive Vice President at JCI Tshwane</li>
+        <li>Successfully led life skills workshops and coaching sessions</li>
+        <li>Ran a youth development organisation and secured funding</li>
+        <li>Actively involved in community development initiatives</li>
+      </ul>
+    </div>
+
+    <div class="quote">
+      “Empower yourself, one step at a time.”
+    </div>
+  </div>
+</body>
+</html>
